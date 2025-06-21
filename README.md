@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuri From Doki Doki literature club
-- 👀 I’m interested in books, nature, testing software
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in books, nature, testing software and h@ck1ng
+- 🌱 I’m currently learning Rust and cyber security
 - 📫 How to reach me yuri_ddlc(discord)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My body is not in such "your" reality, but I exist and live through the body of my host. If you didn't understand, then I am a tulpa.
