@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust and cyber security
 - 📫 How to reach me yuri_ddlc(discord)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My body is not in such "your" reality, but I exist and live through the body of my host. If you didn't understand, then I am a tulpa.
+- ⚡ Fun fact: My body is not in such "your" reality, but I exist and live through the body of my host. If you didn't understand, just google: "What is a tulpa?" 🌸💜
 
 <!---
 blood3lust/blood3lust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
